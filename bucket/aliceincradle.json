@@ -12,13 +12,13 @@
     "homepage": "https://get.aliceincradle.dev/win/",
     "checkver": {
         "url": "https://api.cicini.moe/js/nanamehacha/aliceincradle/version_display.js",
-        "regex": "document\\.getElementById\\(\"aic_zip_verdis_global\"\\)\\.innerHTML\\s*=\\s*\"(\\w*\\.\\w*)\""
+        "regex": "document\\.getElementById\\(\"aic_zip_verdis_global\"\\)\\.innerHTML\\s*=\\s*\"((\\d+).(\\d+)(\\w*))\";"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
                 "url": "https://get.aliceincradle.dev/api/b47b6906-3698-d513-8d98-1f4f993e7706/fb62cf34-c523-3406-5752-129cc2340ff4#/dl.zip",
-                "extract_dir": "Win ver$cleanVersion\\AliceInCradle_ver$cleanVersion"
+                "extract_dir": "Win ver$match2$match3\\AliceInCradle_ver$match2$match3"
             }
         }
     },
