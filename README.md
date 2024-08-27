@@ -17,8 +17,8 @@ Unofficial [Alice In Cradle](https://aliceincradle.dev/) bucket for [Scoop](http
 ## How do I install these manifests?
 
 ```pwsh
-scoop bucket add aliceincradle https://github.com/lwd-temp/scoop-aliceincradle
-scoop install aliceincradle/aliceincradle
+scoop bucket add SunsetMkt_scoop-aliceincradle https://github.com/SunsetMkt/scoop-aliceincradle
+scoop install SunsetMkt_scoop-aliceincradle/aliceincradle
 ```
 
 ## How do I contribute new manifests?
