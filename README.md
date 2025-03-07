@@ -2,7 +2,7 @@
 
 <!-- Uncomment the following line after replacing placeholders -->
 
-[![Tests](https://github.com/lwd-temp/scoop-aliceincradle/actions/workflows/ci.yml/badge.svg)](https://github.com/lwd-temp/scoop-aliceincradle/actions/workflows/ci.yml) [![Excavator](https://github.com/lwd-temp/scoop-aliceincradle/actions/workflows/excavator.yml/badge.svg)](https://github.com/lwd-temp/scoop-aliceincradle/actions/workflows/excavator.yml)
+[![Tests](https://github.com/SunsetMkt/scoop-aliceincradle/actions/workflows/ci.yml/badge.svg)](https://github.com/SunsetMkt/scoop-aliceincradle/actions/workflows/ci.yml) [![Excavator](https://github.com/SunsetMkt/scoop-aliceincradle/actions/workflows/excavator.yml/badge.svg)](https://github.com/SunsetMkt/scoop-aliceincradle/actions/workflows/excavator.yml)
 
 Unofficial [Alice In Cradle](https://aliceincradle.dev/) bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
