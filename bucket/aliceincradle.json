@@ -39,8 +39,6 @@
     ],
     "##": [
         "The download URL stays the same. The version_display.js changes. It's the same in autoupdate.",
-        "TODO: We should ask if the user is above 18 years old, but that will break automation.",
-        "get.aliceincradle.dev has an enforced Cloudflare human verification, so we can't use it.",
-        "https://cn.aliceincradle.dev/download/ is used instead."
+        "TODO: We should ask if the user is above 18 years old, but that will break automation."
     ]
 }
